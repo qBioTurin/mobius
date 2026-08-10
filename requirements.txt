@@ -1,0 +1,16 @@
+streamlit==1.40.0
+numpy==1.26.4
+fastcluster==1.2.6
+plotly==5.24.0
+scikit-learn==1.5.2
+statsmodels==0.14.4
+netrd
+networkx
+statsmodels==0.14.4
+pymoo 
+umap-learn
+scikit-network
+xgboost
+imbalanced-learn
+pymongo
+shap 
