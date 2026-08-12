@@ -1,5 +1,5 @@
 <h1>
-  <img src="images/mobius.png" alt="MOBIUS" width="80" align="center">
+  <img src="./mobius.png" alt="MOBIUS" width="80" align="center">
   MOBIUS
 </h1>
 
