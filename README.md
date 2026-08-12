@@ -1,4 +1,7 @@
-# MOBIUS
+<h1>
+  <img src="images/mobius.png" alt="MOBIUS" width="80" align="center">
+  MOBIUS
+</h1>
 
 **MOBIUS – Multi-Omics Biomarker Integration User-friendly Suite**
 
