@@ -156,16 +156,6 @@ This modular design allows systematic and reproducible comparison of alternative
 
 ---
 
-## Information Leakage Prevention
-
-For supervised analyses, MOBIUS constructs networks, estimates feature relevance, performs feature selection, and trains predictive models using **training data only**.
-
-Independent test datasets are reserved for final model assessment.
-
-This design reduces the risk of information leakage during feature selection and model evaluation.
-
----
-
 # Installation
 
 The recommended way to run MOBIUS is through **Docker Compose**.
