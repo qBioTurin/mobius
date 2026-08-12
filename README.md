@@ -407,9 +407,10 @@ Citation information will be updated upon publication.
 
 MOBIUS was developed by researchers from:
 
+- **Department of Computer Science, University of Turin, Italy**
 - **Italian Institute for Genomic Medicine (IIGM), c/o IRCCS Candiolo, Turin, Italy**
 - **Department of Clinical and Biological Sciences, University of Turin, Italy**
-- **Department of Computer Science, University of Turin, Italy**
+- **Department of Mathematics “Giuseppe Peano”, University of Torino, Italy**
 
 Authors:
 
@@ -419,8 +420,9 @@ Authors:
 - Barbara Pardini
 - Alessio Naccarati
 - Riccardo Aucello
-- Marco Beccuti
 - Francesca Cordero
+- Marco Beccuti
+
 
 ---
 
